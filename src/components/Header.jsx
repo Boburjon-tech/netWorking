@@ -6,10 +6,7 @@ function Header() {
       <a href="/"><span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">NetChat</span></a>
 
       <nav className="flex gap-10 text-gray-600 ">
-        <Link className="hover:text-blue-500">Bosh sahifa</Link>
-        <Link className="hover:text-blue-500">Odamlar</Link>
-        <Link className="hover:text-blue-500">Tadbirlar</Link>
-        <Link className="hover:text-blue-500">Guruhlar</Link>
+        
       </nav>
 
       <div className="flex gap-5">

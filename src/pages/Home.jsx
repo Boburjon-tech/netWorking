@@ -25,6 +25,22 @@ function Home() {
                               <img width="24" height="24" src="https://img.icons8.com/ios/50/user-group-man-man.png" alt="user-group-man-man"/>
                               Foydalanuvchilar
                               </Link>
+                              <Link className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 w-full justify-start">
+                              <img width="24" height="24" src="https://img.icons8.com/fluency-systems-regular/50/calendar--v1.png" alt="calendar--v1"/>
+                              Tadbirlar
+                              </Link>
+                              <Link className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 w-full justify-start"><img width="24" height="24" src="https://img.icons8.com/ios-glyphs/30/teacher.png" alt="teacher"/>
+                              Mentorlar
+                              </Link>
+                              <Link className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 w-full justify-start"><img width="24" height="24" src="https://img.icons8.com/external-outline-lafs/64/external-ic_careers_vacancy-menu-outline-lafs-2.png" alt="external-ic_careers_vacancy-menu-outline-lafs-2"/>
+                              Vakansiyalar
+                              </Link>
+                              <Link className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 w-full justify-start"><img width="24" height="24" src="https://img.icons8.com/windows/32/what-i-do.png" alt="what-i-do"/>
+                              Plan
+                              </Link>
+                              <Link className="inline-flex items-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 w-full justify-start"><img width="24" height="24     " src="https://img.icons8.com/fluency-systems-regular/50/user-male-circle--v1.png" alt="user-male-circle--v1"/>
+                              Profile     
+                              </Link>
                          </nav>
                     </div>
                </div>
