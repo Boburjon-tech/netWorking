@@ -2,10 +2,19 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout';
 
 // Sahifalar
-import {EnterPage,Home } from './pages';
+import {EnterPage,Home,Register,Login } from './pages';
 
 
 const router = createBrowserRouter([
+  {
+        path: "/register",
+        element: <Register />
+  }
+  ,
+  {
+        path: "/login", 
+        element: <Login />
+  },
   {
     path: "/",
     element: (
@@ -21,6 +30,7 @@ const router = createBrowserRouter([
         path: "/home", 
         element: <Home />
       },
+      
       
     ]
   }
