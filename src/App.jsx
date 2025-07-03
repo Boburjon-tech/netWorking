@@ -2,8 +2,7 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout';
 
 // Sahifalar
-import {EnterPage } from './pages';
-import Home from './pages/home';
+import {EnterPage,Home } from './pages';
 
 
 const router = createBrowserRouter([

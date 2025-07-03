@@ -61,19 +61,3 @@ function Home() {
 }
 
 export default Home
-
-
-
-
-
-
-
-
-
-
-
-
-//  <Link><img width="24" height="24" src="https://img.icons8.com/fluency-systems-regular/50/home--v1.png" alt="home--v1"/></Link>
-//                <Link><img width="22" height="20" src="https://img.icons8.com/fluency-systems-regular/50/speech-bubble--v1.png" alt="speech-bubble--v1"/></Link>
-//                <Link><img width="20" height="20" src="https://img.icons8.com/android/24/plus.png" alt="plus"/></Link>
-//                <Link><img width="24" height="24" src="https://img.icons8.com/ios/50/user-group-man-man.png" alt="user-group-man-man"/></Link>
